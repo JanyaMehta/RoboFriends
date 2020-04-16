@@ -1,0 +1,11 @@
+@font-face {
+  font-family: fantasy;
+  font-style: normal;
+  font-weight: normal;
+}
+
+h1 {
+  font-family: fantasy;
+  font-weight: 200;
+  color: #0ccac4;
+}
